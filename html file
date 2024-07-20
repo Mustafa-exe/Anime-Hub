@@ -13,511 +13,112 @@
         <h1>Anime Hub</h1>
         <div class="topnav">
             <a href="https://aniwatch.to/home" target="_blank">Home</a>
-            <a href="https://aniwatch.to/genre/adventure"target="blank">Categories</a>
-            <a href="https://aniwatch.to/"target="blank">Browse</a>
-                <form action="https://aniwatch.to/search" target="_blank">
-                    <input type="text" name="keyword" placeholder="Search..."> 
-                </form>
-            </a>
-          </div>
+            <a href="https://aniwatch.to/genre/adventure" target="_blank">Categories</a>
+            <a href="https://aniwatch.to/" target="_blank">Browse</a>
+            <form action="https://aniwatch.to/search" target="_blank">
+                <input type="text" name="keyword" placeholder="Search..."> 
+            </form>
+        </div>
+        <button id="theme-toggle">Toggle Theme</button>
     </header>
 
     <main>
-       
-            
-            <h2>Featured Anime</h2>
-
-         <section id="Anime_Movies">
-            <p>ㅤㅤㅤㅤ</p>
-            <a href="https://aniwatch.to/watch/a-silent-voice-11?ep=50465"target="blank">
-                
-                <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-UMb6Kl7ZL8Ke.jpg" width="235" height="auto" />
-                </a><br>
-
-                <p>ㅤㅤㅤㅤ</p>
-
-             
-<br>
-<br>
-
-                <a href="https://aniwatch.to/watch/saenai-heroine-no-sodatekata-fine-214?ep=64877"target="blank">
-                
-                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100675-Ut2Qyi9gYOKT.png"width="235" height="auto"  />
-                    </a><br>
-    
-                   
-                    <br>
-                    <br>
-                    <p>ㅤㅤㅤㅤ</p>
-    
-
-                      <a href="https://aniwatch.to/watch/violet-evergarden-the-movie-2020-159?ep=72012"target="blank">
-                
-                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-LYIbLtN2Rb5T.jpg"width="235" height="auto"  />
-                    </a><br>
-    
-                   <p>ㅤㅤㅤㅤ</p>
-                    <br>
-                    <br>
-               
-
-                    <br>
-                    <br>
-    
-
-                      <a href="https://aniwatch.to/watch/i-want-to-eat-your-pancreas-70?ep=58336"target="blank">
-                
-                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99750-NHafozHS8zRp.jpg"width="235" height="auto"  />
-                    </a>
-    <p>ㅤㅤㅤ</p>
-                   
-                    
-
-</section>
-<section id="button">
-<p>ㅤㅤㅤㅤㅤ</p>
-<button><b>ㅤㅤㅤㅤㅤA Silent Voiceㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></button>
-<p>ㅤㅤㅤㅤㅤ</p>
-<button><b>ㅤㅤSaekano the Movie: Finaleㅤㅤㅤㅤ</b></button>
-<p>ㅤㅤㅤㅤㅤㅤ</p>
-<button><b>ㅤViolet Evergarden: the Movieㅤㅤㅤㅤㅤ</b></button>
-<p>ㅤㅤㅤㅤㅤㅤ</p>
-<button><b>ㅤㅤI Want to Eat Your Pancreasㅤㅤㅤㅤㅤ</b></button>
-<p>ㅤㅤㅤㅤㅤ</p>
-</section>
-<br>
-<br>
-<br>
-<br>
-<section id="Anime_Movies">
-                    <br>
-                    <br>
-    
-<p>ㅤㅤㅤㅤ</p>
-                      <a href="https://aniwatch.to/watch/grave-of-the-fireflies-96?ep=64658"target="blank">
-                
-                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx578-vU6XcOlb1XFU.jpg"width="235" height="auto"  />
-                    </a><br>
-                    <p> ㅤㅤㅤㅤㅤ </p>
-    
-                   
-                    <br>
-                    <br>
-
-                    <br>
-                    <br>
-    
-
-                      <a href="https://aniwatch.to/watch/colorful-the-motion-picture-722?ep=57983"target="blank">
-                
-                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8142-C8NvVbzJz7hN.jpg"width="235" height="auto"  />
-                    </a><br>
-    
-        <p>ㅤㅤㅤㅤ</p>
-                    <br>
-                    <br>
-
-                    <br>
-                    <br>
-    
-
-                      <a href="https://aniwatch.to/watch/your-name-10?ep=57910"target="blank">
-                
-                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21519-XIr3PeczUjjF.png"width="235" height="auto"  />
-                    </a><br>
-    <p>ㅤㅤㅤㅤㅤ</p>
-                 
-                    <br>
-                    <br>
-
-                    <br>
-                    <br>
-    
-
-                      <a href="https://aniwatch.to/watch/perfect-blue-127?ep=77861" target="blank">
-                
-                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx437-dvq9hcIyojVX.jpg"width="235" height="auto"  />
-                    </a><br>
-    
-                   
-                    <br>
-                    <br>
-       </section>
-       <section id="button">
-        <p>ㅤㅤㅤㅤ</p>
-       <button><b>ㅤㅤㅤGrave of the Firefliesㅤㅤㅤㅤ</b></button>
-       <p>ㅤㅤㅤㅤㅤ</p>
-       <button><b>ㅤColorful ~ The Motion Pictureㅤㅤ</b></button>
-       <p>ㅤㅤㅤㅤ</p>
-       <button><b>ㅤㅤㅤㅤYour Nameㅤㅤㅤㅤㅤ</b></button>
-       <p>ㅤㅤㅤㅤㅤ</p>
-       <button><b>ㅤㅤㅤㅤㅤPerfect Blueㅤㅤㅤㅤㅤ</b></button>
-
-       <br>
-       <br>
-       <br>
-       </section>
-       <section id="Anime_Movies">
-                    <br>
-                    <br>
-    <p>ㅤㅤㅤㅤ</p>
-
-                      <a href="https://aniwatch.to/watch/jujutsu-kaisen-0-movie-17763?ep=90016"target="blank">
-                
-                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131573-rpl82vDEDRm6.jpg"width="235" height="auto"  />
-                    </a><br>
-    
-                    
-                    <br>
-                    <br>
-                    <p>ㅤㅤㅤㅤㅤ</p>
-                    <br>
-                    <br>
-    
-
-                      <a href="https://aniwatch.to/watch/princess-mononoke-36?ep=58104"target="blank">
-                
-                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx164-QYmGmG2k09pL.jpg"width="235" height="auto"  />
-                    </a><br>
-    
-                    
-                    <br>
-                    <br>
-                    <p>ㅤㅤㅤㅤ</p>
-                    <a href="https://aniwatch.to/watch/a-whisker-away-1772?ep=82637"target="blank">
-                
-                        <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114963-QWMbi5ttovSK.png"width="235" height="auto"  />
-                        </a><br>
-        
-                        
-                        <br>
-                        <br>
-                        <p>ㅤㅤㅤㅤ</p>
-                        <a href="https://aniwatch.to/watch/weathering-with-you-111?ep=71785"target="blank">
-                
-                            <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png"width="235" height="auto"  />
-                            </a><br>
-            
-                            
-                            <br>
-                            <br>
-     </section>
-   <section id="button">
-     <p>ㅤㅤㅤㅤ</p>
-     <button><b>ㅤㅤㅤJUJUTSU KAISEN 0ㅤㅤㅤㅤ</b></button>
-     <p>ㅤㅤㅤㅤㅤ</p>
-     <button><b>ㅤㅤㅤㅤPrincess Mononokeㅤㅤㅤ</b></button>
-     <p>ㅤㅤㅤㅤ</p>
-     <button><b>ㅤㅤㅤㅤㅤA Whisker Awayㅤㅤㅤㅤ</b></button>
-     <p>ㅤㅤㅤㅤ</p>
-     <button><b>ㅤㅤㅤWeathering With Youㅤㅤㅤㅤ</b></button>
-     </section>
-      <section id="Anime_Movies">
-        <p>ㅤㅤㅤㅤ</p>
-                            <a href="https://aniwatch.to/watch/suzumes-doorlocking-18190?ep=100501"target="blank">
-                
-                                <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-sG9FZa5JxlmE.jpg"width="235" height="auto"  />
-                                </a><br>
-                
-                               
-                                <br>
-                                <br>
-                                <p>ㅤㅤㅤㅤㅤ</p>
-
-                                <a href="https://aniwatch.to/watch/howls-moving-castle-49?ep=58207"target="blank">
-                
-                                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx431-dDgk19xDZjVX.jpg"width="235" height="auto"  />
-                                    </a><br>
-                    
-                                    
-                                    <br>
-                                    <br>
-                                    <p>ㅤㅤㅤㅤㅤ</p>
-
-                                    <a href="https://aniwatch.to/watch/ride-your-wave-1622?ep=64876"target="blank">
-                
-                                        <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105018-XM7rFyryltjb.jpg"width="235" height="auto"  />
-                                        </a><br>
-                        
-                                        
-                                        <br>
-                                        <br>
-
-                                        <p>ㅤㅤㅤㅤㅤ</p>
-                                        <a href="https://aniwatch.to/watch/josee-the-tiger-and-the-fish-15750?ep=74948"target="blank">
-                
-                                            <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113596-LKA0bYJGjLnB.jpg"width="235" height="auto"  />
-                                            </a><br>
-                            
-                                           
-                                            <br>
-                                            <br>
-
-                                           </section>
-                                          
-                                       
-
-        </section>
-        <section id="button">
-            <p>ㅤㅤㅤㅤ</p>
-        <button><b>ㅤㅤㅤㅤㅤㅤㅤSuzumeㅤㅤㅤㅤㅤㅤ</b></button>
-        <p>ㅤㅤㅤㅤㅤ</p>
-        <button><b>ㅤㅤㅤHowl‘s Moving Castleㅤㅤㅤ</b></button>
-        <p>ㅤㅤㅤㅤㅤ</p>
-        <button><b>ㅤㅤㅤRide Your Waveㅤㅤㅤㅤㅤ</b></button>
-        <p>ㅤㅤㅤㅤㅤㅤ</p>
-        <button><b>ㅤㅤJosee, the Tiger and the Fishㅤ</b></button>
-</section>
-      
-
-
-
-            <h2><b>Anime</b></h2>
-
-<br>
-<br>
-<br>
-<br>
-<section id="Anime_Movies">
-    <p>ㅤㅤㅤㅤ</p>
-
-            <a href="https://aniwatch.to/attack-on-titan-112?ref=search"target="blank">
-                
-                <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg"width="235" height="auto"  />
-                </a><br>
-
-               
-                <br>
-                <br>
-                <p>ㅤㅤㅤㅤㅤ</p>
-                <br>
-            <br>
-
-            <a href="https://aniwatch.to/vinland-saga-40?ref=search"target="blank">
-
-                <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-msJS8z91mG0P.jpg"width="235" height="auto"  />
-                </a><br>
-
-                <p>ㅤㅤㅤㅤㅤ</p>
-                <br>
-                <br>
-
-                <br>
-            <br>
-
-            <a href="https://aniwatch.to/berserk-1997-103?ref=search"target="blank">
-
-                <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx33-CTtcRjqe7UnM.jpg"width="235" height="auto"  />
-                </a><br>
-
-                <p>ㅤㅤㅤㅤㅤ</p>
-                <br>
-                <br>
-
-                <br>
-            <br>
-
-            <a href="https://aniwatch.to/neon-genesis-evangelion-209?ref=search"target="blank">
-
-                <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-wmNoX3m2qTzz.jpg"width="235" height="auto"  />
-                </a><br>
-
-               
-                <br>
-                <br>
-</section>
-<section id="button">
-    <p>ㅤㅤㅤㅤ</p>
-<button><b>ㅤㅤㅤㅤㅤAttack on Titanㅤㅤㅤㅤㅤ</b></button>
-<p>ㅤㅤㅤㅤ</p>
-<button><b>ㅤㅤㅤㅤㅤVinland Sagaㅤㅤㅤㅤㅤ</b></button>
-<p>ㅤㅤㅤㅤㅤㅤ</p>
-<button><b>ㅤㅤㅤㅤㅤBerserkㅤㅤㅤㅤㅤ</b></button>
-<p>ㅤㅤㅤㅤㅤㅤㅤ</p>
-<button><b>ㅤㅤNeon Genesis Evangelionㅤㅤ</b></button>
-</section>
-<section id="Anime_Movies">
-
-                <br>
-            <br>
-            <p>ㅤㅤㅤㅤ</p>
-            <a href="https://aniwatch.to/the-promised-neverland-55?ref=search"target="blank">
-
-                <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-NhSwxv7HY9y9.jpg"width="235" height="auto"  />
-                </a><br>
-
-               
-                <br>
-                <br>
-                <p>ㅤㅤㅤㅤㅤ</p>
-                <br>
-                <br>
-
-                <a href="https://aniwatch.to/erased-151?ref=search"target="blank">
-
-                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21234-v2NMgPyoVRoM.jpg"width="235" height="auto"  />
-                    </a><br>
-    
-                    
-                    <br>
-                    <br>
-                    <p>ㅤㅤㅤㅤㅤ</p>
-                    <br>
-                    <br>
-
-                    <a href="https://aniwatch.to/saenai-heroine-no-sodatekata-ai-to-seishun-no-service-kai-3403?ref=search"target="blank">
-
-                        <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20657-pMZBj6K6mLhi.jpg"width="235" height="auto"  />
-                        </a><br>
-        
-                        
-                        <br>
-                        <br>
-                        <p>ㅤㅤㅤㅤㅤ</p>
-                        <br>
-                        <br>
-
-                        <a href="https://aniwatch.to/my-teen-romantic-comedy-snafu-454?ref=search"target="blank">
-
-                            <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx14813-BC8aanHK9fju.jpg"width="235" height="auto"  />
-                            </a><br>
-            
-                           
-                            <br>
-                            <br>
-</section>
-<section id="button">
-    <p>ㅤㅤㅤㅤ</p>
-    <button><b>ㅤㅤㅤThe Promised Neverlandㅤㅤ</b></button>
-    <p>ㅤㅤㅤㅤㅤ</p>
-    <button><b>ㅤㅤㅤㅤㅤㅤERASEDㅤㅤㅤㅤㅤㅤ</b></button>
-    <p>ㅤㅤㅤㅤ</p>
-    <button><b>ㅤSaekano: How to Raise a Boring Girlfriendㅤ</b></button>
-    <p>ㅤ</p>
-    <button><b>ㅤMy Teen Romantic Comedy SNAFUㅤ</b></button>
-
-</section>
-<section id="Anime_Movies">
-                            <br>
-                            <br>
-
-                            <p>ㅤㅤㅤㅤ</p>
-
-                            <a href="https://aniwatch.to/rascal-does-not-dream-of-bunny-girl-senpai-149?ref=search"target="blank">
-
-                                <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101291-L71WpAkZPtgm.jpg"width="235" height="auto"  />
-                                </a><br>
-                
-                                
-                                <br>
-                                <br>
-
-                                <p>ㅤㅤㅤㅤㅤ</p>
-                                <br>
-                                <br>
-
-
-                                <a href="https://aniwatch.to/mushoku-tensei-jobless-reincarnation-15820"target="blank">
-    
-                                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-B9S9zC68eS5j.jpg"width="235" height="auto"  />
-                                    </a><br>
-                    
-                                    
-                                    <br>
-                                    <br>
-
-                                    <p>ㅤㅤㅤㅤㅤ</p>
-                                    <br>
-                                    <br>
-
-                                    <a href="https://aniwatch.to/hunter-x-hunter-2?ref=search"target="blank">
-        
-                                        <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136-gj0bbCpDNrKG.jpg"width="235" height="auto"  />
-                                        </a><br>
-                        
-                                        
-                                        <br>
-                                        <br>
-                                        <p>ㅤㅤㅤㅤㅤ</p>
-
-                                        <br>
-                                        <br>
-
-                                        <a href="https://aniwatch.to/dragon-ball-509?ref=search"target="blank">
-            
-                                            <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx223-Ld6vrSnd081L.png"width="235" height="auto"  />
-                                            </a><br>
-                            
-                                            
-                                            <br>
-                                            <br>
-
-
-                                            <br>
-                                            <br>
-                                        </section>
-                                        <section id="button">
-                                            <p>ㅤ</p>
-                                            <button><b>ㅤRascal Does Not Dream of Bunny Girl Senpaiㅤ</b></button>
-                                            
-                                            <p>ㅤㅤ</p>
-                                           
-                                            <button><b>ㅤMushoku Tensei: Jobless Reincarnationㅤ</b></button>
-                                            <p>ㅤ</p>
-                                            <button><b>ㅤㅤㅤㅤㅤHunter x Hunterㅤㅤㅤㅤㅤ</b></button>
-                                            <p>ㅤㅤㅤㅤㅤ</p>
-                                            <button><b>ㅤㅤㅤㅤㅤㅤDragon Ballㅤㅤㅤㅤㅤㅤ</b></button>
-
-                                        </section>
-                                        <section id="Anime_Movies">
-                                            <p>ㅤㅤㅤㅤ</p>
-                                            <a href="https://aniwatch.to/ranking-of-kings-17195?ref=search"target="blank">
-                
-                                                <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113717-fkqTxEqqga61.jpg"width="235" height="auto"  />
-                                                </a><br>
-                                
-                                               
-                                                <br>
-                                                <br>
-
-
-                                                <br>
-                                                <br>
-    
-                                                <p>ㅤㅤㅤㅤ</p>
-            <a href="https://aniwatch.to/class-president-is-a-maid-437?ref=search"target="blank">
-
-                <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7054-GW4D7VAZG19W.png"width="235" height="auto"  />
-                </a><br>
-
-               
-                <br>
-                <br>
-
-                <br>
-            <br>
-            </section>
-            <section id="button">
-                <p>ㅤㅤㅤㅤ</p>
-                
-                <button><b>ㅤㅤㅤㅤㅤRanking of Kingsㅤㅤㅤ</b></button>
-                <p>ㅤㅤㅤㅤ</p>
-                <button><b>ㅤㅤㅤㅤㅤMaid-Sama!ㅤㅤㅤㅤㅤ</b></button>
-            
-           
-
-         
-
-                <br>
-            <br>
-        </section>
+        <h2>Featured Anime</h2>
+        <section class="anime-section">
+            <div class="anime-item">
+                <a href="https://aniwatch.to/watch/a-silent-voice-11?ep=50465" target="_blank">
+                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-UMb6Kl7ZL8Ke.jpg" width="235" height="auto" />
+                </a>
+                <button><b>A Silent Voice  </b></button>
+            </div>
+            <div class="anime-item">
+                <a href="https://aniwatch.to/watch/saenai-heroine-no-sodatekata-fine-214?ep=64877" target="_blank">
+                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100675-Ut2Qyi9gYOKT.png" width="235" height="auto" />
+                </a>
+                <button><b>Saekano the Movie: Finale</b></button>
+            </div>
+            <div class="anime-item">
+                <a href="https://aniwatch.to/watch/violet-evergarden-the-movie-2020-159?ep=72012" target="_blank">
+                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-LYIbLtN2Rb5T.jpg" width="235" height="auto" />
+                </a>
+                <button><b>Violet Evergarden: the Movie</b></button>
+            </div>
+            <div class="anime-item">
+                <a href="https://aniwatch.to/watch/i-want-to-eat-your-pancreas-70?ep=58336" target="_blank">
+                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99750-NHafozHS8zRp.jpg" width="235" height="auto" />
+                </a>
+                <button><b>I Want to Eat Your Pancreas</b></button>
+
+            </div>
         </section>
 
-       
-   
-    <footer>
-        <p>&copy; 2024 Anime Hub</p>
-    </footer>
+        <h2>Anime Movies</h2>
+        <section class="anime-section">
+            <div class="anime-item">
+                <a href="https://aniwatch.to/watch/grave-of-the-fireflies-96?ep=64658" target="_blank">
+                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx578-vU6XcOlb1XFU.jpg" width="235" height="auto" />
+                </a>
+                <button><b>Grave of the Fireflies</b></button>
+            </div>
+            <div class="anime-item">
+                <a href="https://aniwatch.to/watch/colorful-the-motion-picture-722?ep=57983" target="_blank">
+                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8142-C8NvVbzJz7hN.jpg" width="235" height="auto" />
+                </a>
+                <button><b>Colorful ~ The Motion Picture</b></button>
+            </div>
+            <div class="anime-item">
+                <a href="https://aniwatch.to/watch/your-name-10?ep=57910" target="_blank">
+                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21519-XIr3PeczUjjF.png" width="235" height="auto" />
+                </a>
+                <button><b>Your Name</b></button>
+            </div>
+            <div class="anime-item">
+                <a href="https://aniwatch.to/watch/perfect-blue-127?ep=77861" target="_blank">
+                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx437-dvq9hcIyojVX.jpg" width="235" height="auto" />
+                </a>
+                <button><b>Perfect Blue</b></button>
+            </div>
+        </section>
+
+        <h2>Anime Series</h2>
+        <section class="anime-section">
+            <div class="anime-item">
+                <a href="https://aniwatch.to/attack-on-titan-112?ref=search" target="_blank">
+                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg" width="235" height="auto" />
+                </a>
+                <button><b>Attack on Titan</b></button>
+            </div>
+            <div class="anime-item">
+                <a href="https://aniwatch.to/vinland-saga-40?ref=search" target="_blank">
+                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-msJS8z91mG0P.jpg" width="235" height="auto" />
+                </a>
+                <button><b>Vinland Saga</b></button>
+            </div>
+            <div class="anime-item">
+                <a href="https://aniwatch.to/berserk-1997-103?ref=search" target="_blank">
+                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx33-CTtcRjqe7UnM.jpg" width="235" height="auto" />
+                </a>
+                <button><b>Berserk</b></button>
+            </div>
+            <div class="anime-item">
+                <a href="https://aniwatch.to/neon-genesis-evangelion-209?ref=search" target="_blank">
+                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-wmNoX3m2qTzz.jpg" width="235" height="auto" />
+                </a>
+                <button><b>Neon Genesis Evangelion</b></button>
+            </div>
+        </section>
+    </main>
+
+    <script>
+        const toggleButton = document.getElementById('theme-toggle');
+        const body = document.body;
+        
+        toggleButton.addEventListener('click', () => {
+            body.classList.toggle('dark-theme');
+        });
+        
+    </script>
 </body>
 
 </html>
+
